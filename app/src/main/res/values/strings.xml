@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fragmen-SI22CDX</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_judul_fragmen1">fragment 1</string>
+    <string name="text_judul_fragmen2">fragment 2</string>
+    <string name="text_judul_fragmen3">fragment 3</string>
+</resources>
